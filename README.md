@@ -1,6 +1,6 @@
 - 👋 Hi, I’m megumi
-- 👀 I’m interested in astrophysics, material science, anime and manga
-- 🌱 I’m currently learning data analytics and basic web development (html, css, and JS) 
+- 👀 I’m interested in astrophysics, material science, anime and manga, and IT stuffs
+- 🌱 I’m currently learning cloud computing,web development (html, css, and JS), and trying to review about python again
 - 📫 How to reach me at hoshino.megumi37@gmail.com
 
 <!---
