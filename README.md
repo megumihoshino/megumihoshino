@@ -1,6 +1,7 @@
 - 👋 Hi, I’m gumi
-- 👀 I’m interested in astrophysics (but i am still a new learner tho), material sciences (my thesis focused on development of composite coating of Ni-AlN). Also i'd love to watching anime and reading manga books, and im into IT stuffs. 
-- 🌱 I’m currently learning cloud computing, web development (html, css, and JS), and studying python (because i want to expert in astronomy things, so i have to build a deep learning in python again)
+- 👀 I’m interested in astrophysics (but still a new learner tho), material sciences (my thesis focused on composite coatings development of Ni-AlN). Also, i'd love to watching anime and reading manga books, and am into IT stuffs. 
+- 🌱 I’m currently newfound on learning cloud computing, web development (html, css, and JS), and studying python (bcs i want to expert in astronomy things, so i have to build a deep learning in python again).
+- my repositories are still basic (mostly in python) , so im looking forward for any advices or collaboration with y'all! 
 - pronouns she/her
 - 📫 How to reach me at hoshino.megumi37@gmail.com
 <!---
