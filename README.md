@@ -25,7 +25,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45" />
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megumihoshino&layout=compact)          
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megumihoshino&layout=compact)
+
 </p>          
 <!---
 
