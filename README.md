@@ -4,7 +4,7 @@
   <h2> 🌟 &nbsp;MY PROFILE 😎</h2>
 </p>
 
-- I'm a beginner 🔰
+- I'm a self-taught coder ( beginner 🔰)
 - 👀 I’m interested in astrophysics (but still a new learner tho), material sciences (my thesis focused on composite coatings development of Ni-AlN). Also, i'd love to watching anime, reading manga, and into IT stuffs.
 - 🌱 I am currently learning ML and interest in back-end.
 - my repositories are still basic (mostly in python) , so im looking forward for any advices or collaboration with y'all! 
