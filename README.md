@@ -1,9 +1,8 @@
-## I'm Gumi 👋
+## I'm Gumi ⭐👋
 
 <p align="center">
   <h2> 🌟 &nbsp;MY PROFILE 😎</h2>
 </p>
-👋**Hi, I’m GUMI** :star: 
 
 - I'm a beginner 🔰
 - 👀 I’m interested in astrophysics (but still a new learner tho), material sciences (my thesis focused on composite coatings development of Ni-AlN). Also, i'd love to watching anime, reading manga, and into IT stuffs.
