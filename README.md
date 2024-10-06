@@ -7,7 +7,7 @@
 - I'm a self-taught coder
 - Interested in astrophysics (but still a new learner tho), material sciences (my thesis focused on composite coatings development of Ni-AlN).
 - A weebs :>
-- I am currently study Machine Learning, Deep Learning, Data Science, Algorithm, Dat Structures, and so on. Hopefully in the future, I can combine these skills to pursue an advanced degreee in Astophysics.
+- I am currently study Machine Learning, Deep Learning, Data Science, Algorithm, Data Structure, and so on. Hopefully in the future, I can combine these skills to pursue an advanced degreee in Astophysics.
 - All of my repositories mostly in python and still basic. So, I'm looking forward for any advices or collaboration with y'all! 
 - EN OR ID :ok: 
 - 📫 How to reach me at hoshino.megumi37@gmail.com
