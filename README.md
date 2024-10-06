@@ -12,15 +12,11 @@
 - 📫 How to reach me at hoshino.megumi37@gmail.com
 - LIFE MOTTO: "IT'S NOT IMPOSSIBLE, IT'S JUST HARD!" (BOKUTO KOUTAROU)
  
-<h2> 🚀🌟 &nbsp;Some Tools I Have Used and Learned 💻🌃</h2>
+<h2> 🚀🌟 &nbsp;Tech Stack 💻🌃</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JS" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="45" height="45" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" alt="TEX" width="45" height="45"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45" />
 
