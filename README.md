@@ -4,10 +4,11 @@
   <h2> 🌟 &nbsp;MY PROFILE 😎</h2>
 </p>
 
-- I'm a self-taught coder ( beginner 🔰)
-- 👀 I’m interested in astrophysics (but still a new learner tho), material sciences (my thesis focused on composite coatings development of Ni-AlN). Also, i'd love to watching anime, reading manga, and into IT stuffs.
-- 🌱 I am currently learning ML and interest in back-end.
-- my repositories are still basic (mostly in python) , so im looking forward for any advices or collaboration with y'all! 
+- I'm a self-taught coder
+- Interested in astrophysics (but still a new learner tho), material sciences (my thesis focused on composite coatings development of Ni-AlN).
+- A weebs :>
+- I am currently study Machine Learning, Deep Learning, Data Science, Algorithm, Dat Structures, and so on. Hopefully in the future, I can combine these skills to pursue an advanced degreee in Astophysics.
+- All of my repositories mostly in python and still basic. So, I'm looking forward for any advices or collaboration with y'all! 
 - EN OR ID :ok: 
 - 📫 How to reach me at hoshino.megumi37@gmail.com
 - LIFE MOTTO: "IT'S NOT IMPOSSIBLE, IT'S JUST HARD!" (BOKUTO KOUTAROU)
