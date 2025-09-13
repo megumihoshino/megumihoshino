@@ -1,4 +1,4 @@
-## I'm Gumi ⭐👋
+## I'm Gege ⭐👋
 
 <p align="center">
   <h2> 🌟 &nbsp;MY PROFILE 😎</h2>
