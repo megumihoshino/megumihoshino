@@ -1,7 +1,7 @@
 ## I'm Gege ⭐👋
 
 <p align="center">
-  <h2> 🌟 &nbsp;MY PROFILE 😎</h2>
+  <h2> 🌟 &nbsp;MY PROFILE </h2>
 </p>
 
 - I'm a self-taught coder
